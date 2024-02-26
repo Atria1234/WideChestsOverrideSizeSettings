@@ -1,0 +1,11 @@
+{
+	"name": "WideChestsOverrideSizeSettings",
+	"version": "1.0.0",
+	"factorio_version": "1.1",
+	"title": "Merging Chests Override Size Settings",
+	"author": "Atria",
+	"contact": "tomas.chmelik2@gmail.com",
+	"homepage": "https://github.com/Atria1234/WideChestsOverrideSizeSettings",
+	"description": "Toggle mod for WideChests mod. Having this mod creates size mod settings for every type of mergable chest.",
+	"dependencies": []
+}
